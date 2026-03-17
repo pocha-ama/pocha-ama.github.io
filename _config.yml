@@ -47,7 +47,7 @@ external_services:
 # Social media (このブロックをご自身のIDに書き換えます)
 # -----------------------------------------------------------------------------
 github_username: pocha-ama
-twitter_username: https://x.com/pocha_ama
+twitter_username: pocha_ama
 # scholar_userid: GoogleScholarのIDがあればここに
 # orcid_id: ORCIDがあればここに
 
