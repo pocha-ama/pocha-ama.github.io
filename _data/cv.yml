@@ -3,8 +3,6 @@ cv:
   label: PhD Student in Behavioral Science
   email: kaito.takenishi@gmail.com
   location: Sapporo, Japan
-  image: ""
-  summary: "I am a graduate student in social psychology at Hokkaido University, focusing on the mechanisms of collective intelligence. I will be transitioning to the Doctoral program in the spring of 2026 as a JSPS Research Fellow for Young Scientists (DC1)."
 
   social_networks:
     - network: X
@@ -12,123 +10,66 @@ cv:
     - network: GitHub
       username: pocha-ama
 
-  address:
-    street: 
-    city: Kita-ku
-    region: Sapporo
-    postalCode: Hokkaido
-    countryCode: Japan
-
   sections:
     Education:
       - institution: Hokkaido University
         location: Sapporo, Japan
         url: https://www.let.hokudai.ac.jp/general/department-behavioral-science
         area: Human Sciences (Behavioral Science)
-        studyType: PhD
-        start_date: 2026'04
+        degree: PhD
+        start_date: 2026-04
         end_date: Present
-        description: JSPS Research Fellow for Young Scientists (DC1)
+        highlights:
+          - JSPS Research Fellow (DC1)
 
       - institution: Hokkaido University
         location: Sapporo, Japan
         area: Human Sciences (Behavioral Science)
-        studyType: Master
-        start_date: 2024'04
-        end_date: 2026'03
+        degree: Master
+        start_date: 2024-04
+        end_date: 2026-03
 
       - institution: Hiroshima Shudo University
         location: Hiroshima, Japan
         area: Psychology
-        studyType: Bachelor
-        start_date: 2020'04
-        end_date: 2024'03
-
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+        degree: Bachelor
+        start_date: 2020-04
+        end_date: 2024-03
 
     Awards:
-      - title: 若手研究者奨励賞
+      - title: 若手研究者奨励賞 (日本社会心理学会)
         date: 2025-01
-        awarder: 日本社会心理学会
         url: https://www.let.hokudai.ac.jp/news/26227
         summary: 全員⼀致による集合知：なぜ⼈は「全員が納得」するまで話し合うのか?
 
-      - title: 若手発表賞
+      - name: 若手発表賞 (日本人間行動進化学会第17回大会)
         date: 2024-12
-        awarder: 日本人間行動進化学会第17回大会
         url: https://www.let.hokudai.ac.jp/news/25842
         summary: 全員一致規則の集合知：議論の時間的ダイナミクス・モデルによる検討
 
     Grants & Fellowships:
-      - title: 2025年度補助金
-        awarder: 公益財団法人科学技術融合振興財団
-        date: 2026'02 - 2027'03
+      - name: 2025年度補助金 (公益財団法人科学技術融合振興財団)
+        start_date: 2026-02
+        end_date: 2027-03
         summary: 全員一致規則の集合知解明：エージェント・ベース・シミュレーションによる理論的検討
 
-      - title: 日本財団HUMAIプログラム（奨励金A）
-        awarder: HUMAIセンター
-        date: 2025'08 - 2026'03
+      - name: 日本財団HUMAIプログラム 奨励金A (HUMAIセンター)
+        start_date: 2025-08
+        end_date: 2026-03
         summary: 全員一致するまで話し合うことで生まれる集合知
 
     Academic Memberships:
-      - title: 日本人間行動進化学会
-        date: 2023'11 - Present
-        url: https://www.hbesj.org/
+      - name: 日本人間行動進化学会
+        start_date: 2023-11
+        end_date: Present
 
-      - title: 日本社会心理学会
-        date: 2024'04 - Present
-        url: https://www.socialpsychology.jp/
+      - name: 日本社会心理学会
+        start_date: 2024-04
+        end_date: Present
 
-      - title: 日本心理学会
-        date: 2024'04 - 2026'03
-        url: https://psych.or.jp/
+      - name: 日本心理学会
+        start_date: 2024-04
+        end_date: 2026-03
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
@@ -156,17 +97,17 @@ cv:
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Programming & Analysis
-        level: Advanced
+      - name: Simulation
         icon: fa-solid fa-code
-        keywords: "Python, R, Agent-Based Modeling, Statistical Modeling"
+        keywords: "Python"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: (Online) Experiment
+        icon: fa-solid fa-chart-bar
+        keywords: "oTree, JavaScript"
 
-      - name: English
-        summary: "Fluent"
+      - name: Statistical Analysis, Cognitive Modeling
+        icon: fa-solid fa-chart-pie
+        keywords: "R, Stan"
 
     Interests:
       - name: Physics
