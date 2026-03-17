@@ -44,6 +44,14 @@ external_services:
   github_profile_trophy_url: https://github-profile-trophy.vercel.app
 
 # -----------------------------------------------------------------------------
+# Social media (このブロックをご自身のIDに書き換えます)
+# -----------------------------------------------------------------------------
+github_username: pocha-ama
+# twitter_username: あなたのTwitterIDがあればここに
+# scholar_userid: GoogleScholarのIDがあればここに
+# orcid_id: ORCIDがあればここに
+
+# -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
 # will use title and url fields
