@@ -2,4 +2,7 @@ email: kaito.takenishi@gmail.com
 github: pocha-ama
 x: pocha_ama
 rss_icon: true
-researchmap: { title: "Researchmap", url: "https://researchmap.jp/pocha_ama", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Graduation_hat.svg/512px-Graduation_hat.svg.png" }
+researchmap:
+  title: Researchmap
+  url: https://researchmap.jp/pocha_ama
+  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Graduation_hat.svg/512px-Graduation_hat.svg.png
