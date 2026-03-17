@@ -6,7 +6,7 @@ subtitle: <a href='https://researchmap.jp/pocha_ama' target='_blank'>Hokkaido Un
 
 profile:
   align: right
-  image: product.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Sapporo, Hokkaido</p>
