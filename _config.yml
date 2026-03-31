@@ -287,8 +287,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Takenishi, 竹西, 竹西 海人]
+  first_name: [Kaito, K., 海人]
 
   style: apa
   locale: en
