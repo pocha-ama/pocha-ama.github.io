@@ -50,7 +50,7 @@ cv:
         highlights:
           - 全員一致規則の集合知：議論の時間的ダイナミクス・モデルによる検討
 
-    "Grants & Fellowships":
+    Grants:
       - name: 2025年度補助金 (公益財団法人科学技術融合振興財団)
         start_date: 2026-02
         end_date: 2027-03
@@ -63,7 +63,7 @@ cv:
         highlights:
           - 全員一致するまで話し合うことで生まれる集合知
 
-    "Academic Memberships":
+    Memberships:
       - name: 日本人間行動進化学会
         start_date: 2023-11
         end_date: present
@@ -84,19 +84,22 @@ cv:
 
     Skills:
       - label: Simulation
-        details: Python
+        icon: fa-solid fa-cubes
+        keywords: "Python"
       - label: (Online) Experiment
-        details: oTree, JavaScript
+        icon: fa-solid fa-flask
+        keywords: "oTree, JavaScript"
       - label: Statistical Analysis
-        details: R, Stan
+        icon: fa-solid fa-chart-bar
+        keywords: "R, Stan"
 
     Interests:
       - name: Collective Intelligence
-        highlights:
-          - Swarm Intelligence, Wisdom of Crowds, Consensus Building
+        icon: fa-solid fa-users
+        keywords: "Swarm Intelligence, Wisdom of Crowds, Epistemic Democracy"
       - name: Cultural Evolution
-        highlights:
-          - Social Learning, Gene-Culture Coevolution
+        icon: fa-solid fa-dna
+        keywords: "Cumulative Culture, Cultural Transmission, Cultural Group Selection"
 
     References:
       - name: Masanori Takezawa Laboratory
