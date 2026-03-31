@@ -3,7 +3,7 @@ cv:
     Experience:
       - company: Japan Society for the Promotion of Science (JSPS)
         position: Research Fellow (DC1)
-        location: Hokkaido University
+        location: Sapporo, Japan
         start_date: 2026-04
         end_date: present
 
@@ -32,7 +32,7 @@ cv:
         area: Human Sciences (Behavioral Science)
         degree: PhD
         start_date: 2026-04
-        end_date: 2029-03
+        end_date: present
         highlights:
           - JSPS Research Fellow (DC1)
 
@@ -52,7 +52,7 @@ cv:
         start_date: 2020-04
         end_date: 2024-03
 
-    Awards:
+    "Awards":
       - name: 若手研究者奨励賞
         location: 日本社会心理学会
         date: 2025-01
@@ -84,7 +84,7 @@ cv:
 
     Volunteer:
       - company: Hokkaido University
-        position: 「学術振興会特別研究員DC・PD申請書の書き方相談会」話題提供
+        position: 「学術振興会特別研究員DC・PD申請書の書き方相談会」相談員
         location: Sapporo, Japan
         start_date: 2026-03
         end_date: 2026-03
@@ -114,9 +114,10 @@ cv:
         icon: fa-solid fa-dna
         keywords: "Cumulative Culture, Cultural Transmission, Cultural Group Selection"
 
-    References:
+    "Affiliated Laboratory":
       - name: Masanori Takezawa Laboratory
+        icon: fa-solid fa-flask
         location: Hokkaido University
         url: https://lalalarakko.github.io/
         highlights:
-          - Principal Investigator
+          - Cognition, Culture, and Social Evolution
