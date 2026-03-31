@@ -398,7 +398,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-gave-an-oral-presentation-at-the-66th-annual-conference-of-jssp",
+            },},{id: "news-gave-an-oral-presentation-at-the-65th-annual-conference-of-jssp",
+          title: 'Gave an oral presentation at the 65th Annual Conference of JSSP',
+          description: "",
+          section: "News",},{id: "news-gave-an-oral-presentation-at-the-66th-annual-conference-of-jssp",
           title: 'Gave an oral presentation at the 66th Annual Conference of JSSP',
           description: "",
           section: "News",},{id: "news-gave-an-oral-presentation-at-the-18th-annual-conference-of-hbes-j",
