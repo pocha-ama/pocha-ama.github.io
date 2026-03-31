@@ -1,120 +1,127 @@
----
-layout: cv
-permalink: /cv/
-title: CV
-nav: true
-nav_order: 5
-cv_pdf: assets/rendercv/rendercv_output/Kaito_Takenishi_CV.pdf
-description: "Curriculum Vitae"
-toc:
-  sidebar: left
----
+cv:
+  sections:
+    Experience:
+      - company: Japan Society for the Promotion of Science (JSPS)
+        position: Research Fellow (DC1)
+        location: Hokkaido University
+        start_date: 2026-04
+        end_date: present
 
-## Education
-<hr>
+      - company: Sapporo University
+        position: Part-time Lecturer
+        location: Sapporo, Japan
+        start_date: 2026-09
+        end_date: present
 
-<div class="d-flex justify-content-between">
-  <b>Hokkaido University</b>
-  <span><i>Apr 2026 - Mar 2029 (Expected)</i></span>
-</div>
-<div class="mb-3">
-  PhD Student in Human Sciences (Behavioral Science)<br>
-  <ul>
-    <li>JSPS Research Fellow for Young Scientists (DC1)</li>
-  </ul>
-</div>
+    Education:
+      - institution: Hokkaido University
+        location: Sapporo, Japan
+        url: https://www.let.hokudai.ac.jp/general/department-behavioral-science
+        area: Human Sciences (Behavioral Science)
+        degree: PhD
+        start_date: 2026-04
+        end_date: 2029-03
+        highlights:
+          - JSPS Research Fellow (DC1)
 
-<div class="d-flex justify-content-between">
-  <b>Hokkaido University</b>
-  <span><i>Apr 2024 - Mar 2026</i></span>
-</div>
-<div class="mb-3">
-  M.A. in Human Sciences (Behavioral Science)
-</div>
+      - institution: Hokkaido University
+        location: Sapporo, Japan
+        url: https://www.let.hokudai.ac.jp/general/department-behavioral-science
+        area: Human Sciences (Behavioral Science)
+        degree: M. A.
+        start_date: 2024-04
+        end_date: 2026-03
 
-<div class="d-flex justify-content-between">
-  <b>Hiroshima Shudo University</b>
-  <span><i>Apr 2020 - Mar 2024</i></span>
-</div>
-<div class="mb-3">
-  B.A. in Psychology
-</div>
+      - institution: Hiroshima Shudo University
+        location: Hiroshima, Japan
+        url: https://www.shudo-u.ac.jp/academics/health/psychology.html
+        area: Psychology
+        degree: Bachelor
+        start_date: 2020-04
+        end_date: 2024-03
 
+    Awards:
+      - name: 若手研究者奨励賞
+        location: 日本社会心理学会
+        date: 2025-01
+        url: https://www.let.hokudai.ac.jp/news/26227
+        highlights:
+          - 全員⼀致による集合知：なぜ⼈は「全員が納得」するまで話し合うのか?
 
-## Grants & Fellowships
-<hr>
+      - name: 若手発表賞
+        location: 日本人間行動進化学会第17回大会
+        date: 2024-12
+        url: https://www.let.hokudai.ac.jp/news/25842
+        highlights:
+          - 全員一致規則の集合知：議論の時間的ダイナミクス・モデルによる検討
 
-<div class="d-flex justify-content-between">
-  <b>2025年度補助金</b>
-  <span><i>Feb 2026 - Mar 2027</i></span>
-</div>
-<div class="mb-3">
-  公益財団法人科学技術融合振興財団<br>
-  <ul>
-    <li>全員一致規則の集合知解明：エージェント・ベース・シミュレーションによる理論的検討</li>
-  </ul>
-</div>
+    Projects:
+      - name: 2025年度補助金 (公益財団法人科学技術融合振興財団)
+        location: Sapporo, Japan
+        start_date: 2026-02
+        end_date: 2027-03
+        highlights:
+          - "研究課題: 全員一致規則の集合知解明：エージェント・ベース・シミュレーションによる理論的検討"
 
-<div class="d-flex justify-content-between">
-  <b>日本財団HUMAIプログラム 奨励金A</b>
-  <span><i>Aug 2025 - Mar 2026</i></span>
-</div>
-<div class="mb-3">
-  HUMAIセンター<br>
-  <ul>
-    <li>全員一致するまで話し合うことで生まれる集合知</li>
-  </ul>
-</div>
+      - name: 日本財団HUMAIプログラム 奨励金A (HUMAIセンター)
+        location: Sapporo, Japan
+        start_date: 2025-08
+        end_date: 2026-03
+        highlights:
+          - "研究課題: 全員一致するまで話し合うことで生まれる集合知"
 
+    Volunteer:
+      - company: Hokkaido University
+        position: 「学術振興会特別研究員DC・PD申請書の書き方相談会」話題提供
+        location: Sapporo, Japan
+        date: 2026-03
 
-## Awards
-<hr>
+      - company: Hokkaido University
+        position: 「学術振興会特別研究員DC・PD申請書の書き方相談会」話題提供
+        location: Sapporo, Japan
+        date: 2026-01
 
-<div class="d-flex justify-content-between">
-  <b>若手研究者奨励賞</b>
-  <span><i>Jan 2025</i></span>
-</div>
-<div class="mb-3">
-  日本社会心理学会<br>
-  <ul>
-    <li>対象論文: <a href="https://www.let.hokudai.ac.jp/news/26227" target="_blank">全員⼀致による集合知：なぜ⼈は「全員が納得」するまで話し合うのか?</a></li>
-  </ul>
-</div>
+    Experience:
+      - company: 日本人間行動進化学会
+        position: Student Member
+        location: Japan
+        start_date: 2023-11
+        end_date: present
 
-<div class="d-flex justify-content-between">
-  <b>若手発表賞</b>
-  <span><i>Dec 2024</i></span>
-</div>
-<div class="mb-3">
-  日本人間行動進化学会第17回大会<br>
-  <ul>
-    <li>対象発表: <a href="https://www.let.hokudai.ac.jp/news/25842" target="_blank">全員一致規則の集合知：議論の時間的ダイナミクス・モデルによる検討</a></li>
-  </ul>
-</div>
+      - company: 日本社会心理学会
+        position: Student Member
+        location: Japan
+        start_date: 2024-04
+        end_date: present
 
+      - company: 日本心理学会
+        position: Student Member
+        location: Japan
+        start_date: 2024-04
+        end_date: 2026-03
 
-## Academic Memberships
-<hr>
+    Skills:
+      - name: Simulation
+        icon: fa-solid fa-cubes
+        keywords: "Python"
+      - name: (Online) Experiment
+        icon: fa-solid fa-flask
+        keywords: "oTree, JavaScript"
+      - name: Statistical Analysis
+        icon: fa-solid fa-chart-bar
+        keywords: "R, Stan"
 
-<ul>
-  <li><b>日本人間行動進化学会</b> (Nov 2023 - Present)</li>
-  <li><b>日本社会心理学会</b> (Apr 2024 - Present)</li>
-  <li><b>日本心理学会</b> (Apr 2024 - Mar 2026)</li>
-</ul>
+    Interests:
+      - name: Collective Intelligence
+        icon: fa-solid fa-users
+        keywords: "Swarm Intelligence, Wisdom of Crowds, Epistemic Democracy"
+      - name: Cultural Evolution
+        icon: fa-solid fa-dna
+        keywords: "Cumulative Culture, Cultural Transmission, Cultural Group Selection"
 
-
-## Skills & Interests
-<hr>
-
-**Skills:**
-<ul>
-  <li><b>Simulation:</b> Python</li>
-  <li><b>(Online) Experiment:</b> oTree, JavaScript</li>
-  <li><b>Statistical Analysis:</b> R, Stan</li>
-</ul>
-
-**Interests:**
-<ul>
-  <li><b>Collective Intelligence:</b> Swarm Intelligence, Wisdom of Crowds, Epistemic Democracy</li>
-  <li><b>Cultural Evolution:</b> Cumulative Culture, Cultural Transmission, Cultural Group Selection</li>
-</ul>
+    References:
+      - name: Masanori Takezawa Laboratory
+        location: Hokkaido University
+        url: https://lalalarakko.github.io/
+        highlights:
+          - Principal Investigator
