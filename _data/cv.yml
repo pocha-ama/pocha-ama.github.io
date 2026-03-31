@@ -13,6 +13,18 @@ cv:
         start_date: 2026-09
         end_date: present
 
+      - company: Hokkaido University
+        position: Teaching Fellow
+        location: Sapporo, Japan
+        start_date: 2026-09
+        end_date: present
+
+      - company: Hokkaido University
+        position: Teaching Assistant
+        location: Sapporo, Japan
+        start_date: 2024-04
+        end_date: 2026-03
+
     Education:
       - institution: Hokkaido University
         location: Sapporo, Japan
@@ -74,31 +86,14 @@ cv:
       - company: Hokkaido University
         position: 「学術振興会特別研究員DC・PD申請書の書き方相談会」話題提供
         location: Sapporo, Japan
-        date: 2026-03
+        start_date: 2026-03
+        end_date: 2026-03
 
       - company: Hokkaido University
-        position: 「学術振興会特別研究員DC・PD申請書の書き方相談会」話題提供
+        position: 「学術振興会特別研究員DC・PD申請書の書き方セミナー2025～学振特別研究員の申請に向けて―はじめの一歩！～」話題提供
         location: Sapporo, Japan
-        date: 2026-01
-
-    Experience:
-      - company: 日本人間行動進化学会
-        position: Student Member
-        location: Japan
-        start_date: 2023-11
-        end_date: present
-
-      - company: 日本社会心理学会
-        position: Student Member
-        location: Japan
-        start_date: 2024-04
-        end_date: present
-
-      - company: 日本心理学会
-        position: Student Member
-        location: Japan
-        start_date: 2024-04
-        end_date: 2026-03
+        start_date: 2026-01
+        end_date: 2026-01
 
     Skills:
       - name: Simulation
