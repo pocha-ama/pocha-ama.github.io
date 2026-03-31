@@ -1,14 +1,4 @@
 cv:
-  name: Kaito Takenishi
-  email: kaito.takenishi@gmail.com
-  location: Sapporo, Japan
-
-  social_networks:
-    - network: X
-      username: pocha_ama
-    - network: GitHub
-      username: pocha-ama
-
   sections:
     Education:
       - institution: Hokkaido University
@@ -38,58 +28,62 @@ cv:
         end_date: 2024-03
 
     Awards:
-      - name: 若手研究者奨励賞 (日本社会心理学会)
+      - name: 若手研究者奨励賞
+        location: 日本社会心理学会
         date: 2025-01
         url: https://www.let.hokudai.ac.jp/news/26227
         highlights:
-          - 全員⼀致による集合知：なぜ⼈は「全員が納得」するまで話し合うのか?
+          - "対象論文: 全員⼀致による集合知：なぜ⼈は「全員が納得」するまで話し合うのか?"
 
-      - name: 若手発表賞 (日本人間行動進化学会第17回大会)
+      - name: 若手発表賞
+        location: 日本人間行動進化学会第17回大会
         date: 2024-12
         url: https://www.let.hokudai.ac.jp/news/25842
         highlights:
-          - 全員一致規則の集合知：議論の時間的ダイナミクス・モデルによる検討
+          - "対象発表: 全員一致規則の集合知：議論の時間的ダイナミクス・モデルによる検討"
 
-    Grants:
+    Projects:
       - name: 2025年度補助金 (公益財団法人科学技術融合振興財団)
+        location: Sapporo, Japan
         start_date: 2026-02
         end_date: 2027-03
         highlights:
           - 全員一致規則の集合知解明：エージェント・ベース・シミュレーションによる理論的検討
 
       - name: 日本財団HUMAIプログラム 奨励金A (HUMAIセンター)
+        location: Sapporo, Japan
         start_date: 2025-08
         end_date: 2026-03
         highlights:
           - 全員一致するまで話し合うことで生まれる集合知
 
-    Memberships:
-      - name: 日本人間行動進化学会
+    Experience:
+      - company: 日本人間行動進化学会
+        position: Student Member
+        location: Japan
         start_date: 2023-11
         end_date: present
-        highlights:
-          - 学生会員
 
-      - name: 日本社会心理学会
+      - company: 日本社会心理学会
+        position: Student Member
+        location: Japan
         start_date: 2024-04
         end_date: present
-        highlights:
-          - 学生会員
 
-      - name: 日本心理学会
+      - company: 日本心理学会
+        position: Student Member
+        location: Japan
         start_date: 2024-04
         end_date: 2026-03
-        highlights:
-          - 学生会員
 
     Skills:
-      - label: Simulation
+      - name: Simulation
         icon: fa-solid fa-cubes
         keywords: "Python"
-      - label: (Online) Experiment
+      - name: (Online) Experiment
         icon: fa-solid fa-flask
         keywords: "oTree, JavaScript"
-      - label: Statistical Analysis
+      - name: Statistical Analysis
         icon: fa-solid fa-chart-bar
         keywords: "R, Stan"
 
