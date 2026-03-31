@@ -16,7 +16,7 @@ cv:
         area: "Human Sciences (Behavioral Science)"
         degree: "PhD"
         start_date: "2026-04"
-        end_date: "Present"
+        end_date: "present"
         highlights:
           - "JSPS Research Fellow for Young Scientists (DC1)"
 
@@ -57,16 +57,16 @@ cv:
     "Academic Memberships":
       - name: "日本人間行動進化学会"
         start_date: "2023-11"
-        end_date: "Present"
+        end_date: "present"
 
       - name: "日本社会心理学会"
         start_date: "2024-04"
-        end_date: "Present"
+        end_date: "present"
 
       - name: "日本心理学会"
         start_date: "2024-04"
         end_date: "2026-03"
 
     Skills:
-      - name: "Programming & Analysis"
+      - label: "Programming & Analysis"
         details: "Python, R, Agent-Based Modeling, Statistical Modeling"
