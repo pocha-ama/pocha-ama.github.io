@@ -41,36 +41,46 @@ cv:
       - name: 若手研究者奨励賞 (日本社会心理学会)
         date: 2025-01
         url: https://www.let.hokudai.ac.jp/news/26227
-        summary: 全員⼀致による集合知：なぜ⼈は「全員が納得」するまで話し合うのか?
+        highlights:
+          - 全員⼀致による集合知：なぜ⼈は「全員が納得」するまで話し合うのか?
 
       - name: 若手発表賞 (日本人間行動進化学会第17回大会)
         date: 2024-12
         url: https://www.let.hokudai.ac.jp/news/25842
-        summary: 全員一致規則の集合知：議論の時間的ダイナミクス・モデルによる検討
+        highlights:
+          - 全員一致規則の集合知：議論の時間的ダイナミクス・モデルによる検討
 
     "Grants & Fellowships":
       - name: 2025年度補助金 (公益財団法人科学技術融合振興財団)
         start_date: 2026-02
         end_date: 2027-03
-        summary: 全員一致規則の集合知解明：エージェント・ベース・シミュレーションによる理論的検討
+        highlights:
+          - 全員一致規則の集合知解明：エージェント・ベース・シミュレーションによる理論的検討
 
       - name: 日本財団HUMAIプログラム 奨励金A (HUMAIセンター)
         start_date: 2025-08
         end_date: 2026-03
-        summary: 全員一致するまで話し合うことで生まれる集合知
+        highlights:
+          - 全員一致するまで話し合うことで生まれる集合知
 
     "Academic Memberships":
       - name: 日本人間行動進化学会
         start_date: 2023-11
         end_date: present
+        highlights:
+          - 学生会員
 
       - name: 日本社会心理学会
         start_date: 2024-04
         end_date: present
+        highlights:
+          - 学生会員
 
       - name: 日本心理学会
         start_date: 2024-04
         end_date: 2026-03
+        highlights:
+          - 学生会員
 
     Skills:
       - label: Simulation
@@ -81,11 +91,16 @@ cv:
         details: R, Stan
 
     Interests:
-      - name: Collective Intelligence, Swarm Intelligence, Wisdom of Crowds
+      - name: Collective Intelligence
+        highlights:
+          - Swarm Intelligence, Wisdom of Crowds, Consensus Building
       - name: Cultural Evolution
+        highlights:
+          - Social Learning, Gene-Culture Coevolution
 
     References:
-      - name: Masanori Takezawa Laboratory, Hokkaido University
+      - name: Masanori Takezawa Laboratory
+        location: Hokkaido University
         url: https://lalalarakko.github.io/
-      - name: Professor Jane Smith
-        summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        highlights:
+          - Principal Investigator
