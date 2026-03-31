@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://researchmap.jp/pocha_ama' target='_blank'>Hokkaido University</a>. Social Psychology. Collective Intelligence.
+subtitle: >
+  <p><b>PhD student</b></p>
+  <p><a href='https://lynx.let.hokudai.ac.jp/dpt1/' target='_blank'>Department of Behavioral Science</a>, <a href='https://www.let.hokudai.ac.jp/' target='_blank'>Graduate School of Humanities and Human Sciences</a>, <a href='https://www.hokudai.ac.jp/' target='_blank'>Hokkaido University, Japan</a></p>
+  <p>Social Psychology, Collective Intelligence, Group Decision Making</p>
 
 profile:
   align: right
