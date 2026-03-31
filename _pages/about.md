@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <p><b>PhD student</b></p>
-  <p><a href='https://lynx.let.hokudai.ac.jp/dpt1/' target='_blank'>Department of Behavioral Science</a>, <a href='https://www.let.hokudai.ac.jp/' target='_blank'>Graduate School of Humanities and Human Sciences</a>, <a href='https://www.hokudai.ac.jp/' target='_blank'>Hokkaido University, Japan</a></p>
-  <p>Social Psychology, Collective Intelligence, Group Decision Making</p>
+  <p><b>PhD student</b> (<a href='https://lynx.let.hokudai.ac.jp/dpt1/' target='_blank'>Department of Behavioral Science</a>, <a href='https://www.let.hokudai.ac.jp/' target='_blank'>Graduate School of Humanities and Human Sciences</a>, <a href='https://www.hokudai.ac.jp/' target='_blank'>Hokkaido University, Japan</a>) </p>
+  <p>JSSP Research Fellow (DC1)</p>
+  <p><b>Keyword</b>: Social Psychology, Collective Intelligence, Group Decision Making</p>
 
 profile:
   align: right
@@ -27,6 +27,9 @@ latest_posts:
   enabled: false
 ---
 
-I am a graduate student in social psychology at Hokkaido University, focusing on the mechanisms of collective intelligence. I will be transitioning to the Doctoral program in the spring of 2026, where I am scheduled to be accepted as a JSPS Research Fellow for Young Scientists (DC1).
+<p>Contact</p>
+Email: kaito.takenishi[at]gmail.com
+Location: <a href='https://www.let.hokudai.ac.jp/access' target='_blank'>Kita 10, Nishi 7, Kita-ku, Sapporo, 060-0810 Japan<a>
 
-My research employs computational models and behavioral experiments to understand how groups make decisions and solve problems. I primarily use Python and R for simulations and data analysis. I am an active member of the Human Behavior and Evolution Society of Japan and The Japanese Cognitive Science Society, and I am highly interested in engaging with the global academic community at international conferences such as the Cognitive Science Society and the Society for Judgment and Decision Making.
+<p>My Interest</p>
+Collective Intelligence and the Design of Epistemic Democracy (I study when collective intelligence emerges, when it breaks down, and how institutions can be designed to support it.)
