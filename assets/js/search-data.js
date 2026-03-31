@@ -398,7 +398,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-selected-as-jsps-research-fellow-dc1",
+            },},{id: "news-gave-an-oral-presentation-at-the-66th-annual-conference-of-jssp",
+          title: 'Gave an oral presentation at the 66th Annual Conference of JSSP',
+          description: "",
+          section: "News",},{id: "news-gave-an-oral-presentation-at-the-18th-annual-conference-of-hbes-j",
+          title: 'Gave an oral presentation at the 18th Annual Conference of HBES-J',
+          description: "",
+          section: "News",},{id: "news-won-the-research-grant-jpy270-000-from-the-foundation-for-the-fusion-of-science-and-technology",
+          title: 'Won the Research Grant (JPY270,000) from the Foundation for the Fusion of Science...',
+          description: "",
+          section: "News",},{id: "news-selected-as-jsps-research-fellow-dc1",
           title: 'Selected as JSPS Research Fellow (DC1)',
           description: "",
           section: "News",},{id: "projects-project-1",
