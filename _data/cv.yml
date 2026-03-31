@@ -1,128 +1,72 @@
 cv:
-  name: Kaito Takenishi
-  label: PhD Student in Behavioral Science
-  email: kaito.takenishi[at]gmail.com
-  location: Sapporo, Japan
+  name: "Kaito Takenishi"
+  email: "kaito.takenishi@gmail.com"
+  location: "Sapporo, Japan"
 
   social_networks:
-    - network: X
-      username: pocha_ama
-    - network: GitHub
-      username: pocha-ama
+    - network: "X"
+      username: "pocha_ama"
+    - network: "GitHub"
+      username: "pocha-ama"
 
   sections:
     Education:
-      - institution: Hokkaido University
-        location: Sapporo, Japan
-        url: https://www.let.hokudai.ac.jp/general/department-behavioral-science
-        area: Human Sciences (Behavioral Science)
-        degree: PhD
-        start_date: 2026-04
-        end_date: Present
+      - institution: "Hokkaido University"
+        location: "Sapporo, Japan"
+        area: "Human Sciences (Behavioral Science)"
+        degree: "PhD"
+        start_date: "2026-04"
+        end_date: "Present"
         highlights:
-          - JSPS Research Fellow (DC1)
+          - "JSPS Research Fellow for Young Scientists (DC1)"
 
-      - institution: Hokkaido University
-        location: Sapporo, Japan
-        url: https://www.let.hokudai.ac.jp/general/department-behavioral-science
-        area: Human Sciences (Behavioral Science)
-        degree: Master
-        start_date: 2024-04
-        end_date: 2026-03
+      - institution: "Hokkaido University"
+        location: "Sapporo, Japan"
+        area: "Human Sciences (Behavioral Science)"
+        degree: "Master"
+        start_date: "2024-04"
+        end_date: "2026-03"
 
-      - institution: Hiroshima Shudo University
-        location: Hiroshima, Japan
-        url: https://www.shudo-u.ac.jp/academics/health/psychology.html
-        area: Psychology
-        degree: Bachelor
-        start_date: 2020-04
-        end_date: 2024-03
+      - institution: "Hiroshima Shudo University"
+        location: "Hiroshima, Japan"
+        area: "Psychology"
+        degree: "Bachelor"
+        start_date: "2020-04"
+        end_date: "2024-03"
 
     Awards:
-      - title: 若手研究者奨励賞 (日本社会心理学会)
-        date: 2025-01
-        url: https://www.let.hokudai.ac.jp/news/26227
-        summary: 全員⼀致による集合知：なぜ⼈は「全員が納得」するまで話し合うのか?
+      - name: "若手研究者奨励賞 (日本社会心理学会)"
+        date: "2025-01"
+        summary: "全員⼀致による集合知: なぜ⼈は「全員が納得」するまで話し合うのか?"
 
-      - title: 若手発表賞 (日本人間行動進化学会第17回大会)
-        date: 2024-12
-        url: https://www.let.hokudai.ac.jp/news/25842
-        summary: 全員一致規則の集合知：議論の時間的ダイナミクス・モデルによる検討
+      - name: "若手発表賞 (日本人間行動進化学会第17回大会)"
+        date: "2024-12"
+        summary: "全員一致規則の集合知: 議論の時間的ダイナミクス・モデルによる検討"
 
-    Grants & Fellowships:
-      - title: 2025年度補助金 (公益財団法人科学技術融合振興財団)
-        start_date: 2026-02
-        end_date: 2027-03
-        summary: 全員一致規則の集合知解明：エージェント・ベース・シミュレーションによる理論的検討
+    "Grants & Fellowships":
+      - name: "2025年度補助金 (公益財団法人科学技術融合振興財団)"
+        start_date: "2026-02"
+        end_date: "2027-03"
+        summary: "全員一致規則の集合知解明: エージェント・ベース・シミュレーションによる理論的検討"
 
-      - title: 日本財団HUMAIプログラム 奨励金A (HUMAIセンター)
-        start_date: 2025-08
-        end_date: 2026-03
-        summary: 全員一致するまで話し合うことで生まれる集合知
+      - name: "日本財団HUMAIプログラム 奨励金A (HUMAIセンター)"
+        start_date: "2025-08"
+        end_date: "2026-03"
+        summary: "全員一致するまで話し合うことで生まれる集合知"
 
-    Academic Memberships:
-      - title: 日本人間行動進化学会
-        start_date: 2023-11
-        end_date: Present
+    "Academic Memberships":
+      - name: "日本人間行動進化学会"
+        start_date: "2023-11"
+        end_date: "Present"
 
-      - title: 日本社会心理学会
-        start_date: 2024-04
-        end_date: Present
+      - name: "日本社会心理学会"
+        start_date: "2024-04"
+        end_date: "Present"
 
-      - title: 日本心理学会
-        start_date: 2024-04
-        end_date: 2026-03
+      - name: "日本心理学会"
+        start_date: "2024-04"
+        end_date: "2026-03"
 
     Skills:
-      - name: Simulation
-        icon: fa-solid fa-code
-        keywords: "Python"
-
-      - name: (Online) Experiment
-        icon: fa-solid fa-chart-bar
-        keywords: "oTree, JavaScript"
-
-      - name: Statistical Analysis
-        icon: fa-solid fa-chart-pie
-        keywords: "R, Stan"
-
-    Interests:
-      - name: Collective Intelligence, Swarm Intelligence, Wisdom of Crowds
-          icon: fa-solid fa-users
-
-      - name: Cultural Evolution
-        icon: fa-solid fa-people-roof
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Masanori Takezawa Laboratory, Hokkaido University
-        icon: fa-solid fa-building
-        url: https://lalalarakko.github.io/
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: "Programming & Analysis"
+        details: "Python, R, Agent-Based Modeling, Statistical Modeling"
