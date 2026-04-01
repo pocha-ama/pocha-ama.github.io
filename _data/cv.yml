@@ -117,16 +117,14 @@ cv:
 
     References:
       - name: Masanori Takezawa Laboratory
-        icon: fa-solid fa-school
+        icon: fa-solid fa-university
         location: Hokkaido University
-        url: https://lalalarakko.github.io/
+        reference: https://lalalarakko.github.io/
 
       - name: Human Behavior & Evolution Society of Japan (HBES-J)
-        icon: fa-solid fa-landmark
-        location: Academic Society
-        url: https://www.hbesj.org/
+        icon: fa-solid fa-science
+        reference: https://www.hbesj.org/
 
       - name: The Japanese Society of Social Psychology (JSSP)
-        icon: fa-solid fa-landmark
-        location: Academic Society
-        url: https://www.socialpsychology.jp/
+        icon: fa-solid fa-science
+        reference: https://www.socialpsychology.jp/
