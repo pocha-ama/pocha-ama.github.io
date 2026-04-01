@@ -52,14 +52,17 @@ cv:
 
     Awards:
       - title: 若手研究者奨励賞
-        authors: 竹西 海人
+        authors:
+          - 竹西 海人
         awarder: 日本社会心理学会
         date: 2025-01
         url: https://www.let.hokudai.ac.jp/news/26227
         summary: 研究タイトル：全員⼀致による集合知：なぜ⼈は「全員が納得」するまで話し合うのか?
 
       - title: 若手発表賞
-        authors: 竹西 海人，竹澤 正哲
+        authors:
+          - 竹西 海人
+          - 竹澤 正哲
         awarder: 日本人間行動進化学会第17回大会
         date: 2024-12
         url: https://www.let.hokudai.ac.jp/news/25842
@@ -67,13 +70,15 @@ cv:
 
     Projects:
       - name: 2025年度補助金 (公益財団法人科学技術融合振興財団)
-        highlights: JPY270,000
+        highlights:
+          - JPY270,000
         start_date: 2026-02
         end_date: 2027-03
         summary: "研究課題：全員一致規則の集合知解明：エージェント・ベース・シミュレーションによる理論的検討"
 
       - name: 日本財団HUMAIプログラム奨励金A (HUMAIセンター)
-        highlights: JPY280,000
+        highlights:
+          - JPY280,000
         start_date: 2025-08
         end_date: 2026-03
         summary: "研究課題：全員一致するまで話し合うことで生まれる集合知"
@@ -82,12 +87,14 @@ cv:
       - company: Hokkaido University
         position: 「学術振興会特別研究員DC・PD申請書の書き方相談会」相談員
         location: Sapporo, Japan
-        date: 2026-03
+        start_date: 2026-03
+        end_date: 2026-03
 
       - company: Hokkaido University
         position: 「学術振興会特別研究員DC・PD申請書の書き方セミナー2025～学振特別研究員の申請に向けて―はじめの一歩！～」話題提供
         location: Sapporo, Japan
-        date: 2026-01
+        start_date: 2026-01
+        end_date: 2026-01
 
     Skills:
       - name: Simulation
@@ -110,6 +117,13 @@ cv:
 
     References:
       - name: Masanori Takezawa Laboratory
-        icon: fa-solid fa-flask
+        icon: fa-solid fa-graduation-cap
         url: https://lalalarakko.github.io/
-        reference: Cognition, Culture, and Social Evolution
+
+      - name: Human Behavior & Evolution Society of Japan (HBES-J)
+        icon: fa-solid fa-users
+        url: https://www.hbesj.org/
+
+      - name: The Japanese Society of Social Psychology (JSSP)
+        icon: fa-solid fa-users
+        url: https://www.socialpsychology.jp/
