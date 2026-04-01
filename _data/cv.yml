@@ -69,14 +69,14 @@ cv:
         summary: 研究タイトル：全員一致規則の集合知：議論の時間的ダイナミクス・モデルによる検討
 
     Projects:
-      - name: 2025年度補助金 (公益財団法人科学技術融合振興財団)
+      - name: 2025年度補助金（公益財団法人科学技術融合振興財団）
         highlights:
           - JPY270,000
         start_date: 2026-02
         end_date: 2027-03
         summary: "研究課題：全員一致規則の集合知解明：エージェント・ベース・シミュレーションによる理論的検討"
 
-      - name: 日本財団HUMAIプログラム奨励金A (HUMAIセンター)
+      - name: 日本財団HUMAIプログラム奨励金A（HUMAIセンター）
         highlights:
           - JPY280,000
         start_date: 2025-08
@@ -117,13 +117,16 @@ cv:
 
     References:
       - name: Masanori Takezawa Laboratory
-        icon: fa-solid fa-graduation-cap
+        icon: fa-solid fa-school
+        location: Hokkaido University
         url: https://lalalarakko.github.io/
 
       - name: Human Behavior & Evolution Society of Japan (HBES-J)
-        icon: fa-solid fa-users
+        icon: fa-solid fa-landmark
+        location: Academic Society
         url: https://www.hbesj.org/
 
       - name: The Japanese Society of Social Psychology (JSSP)
-        icon: fa-solid fa-users
+        icon: fa-solid fa-landmark
+        location: Academic Society
         url: https://www.socialpsychology.jp/
