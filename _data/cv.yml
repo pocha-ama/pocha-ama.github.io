@@ -67,15 +67,15 @@ cv:
         highlights:
           - 全員一致規則の集合知：議論の時間的ダイナミクス・モデルによる検討
 
-    Projects:
-      - name: 2025年度補助金 (JPY270,000)
+    Grants:
+      - title: 2025年度補助金 (JPY270,000)
         location: 公益財団法人科学技術融合振興財団
         start_date: 2026-02
         end_date: 2027-03
         highlights:
           - "研究課題: 全員一致規則の集合知解明：エージェント・ベース・シミュレーションによる理論的検討"
 
-      - name: 日本財団HUMAIプログラム奨励金A (JPY280,000)
+      - title: 日本財団HUMAIプログラム奨励金A (JPY280,000)
         location: HUMAIセンター
         start_date: 2025-08
         end_date: 2026-03
