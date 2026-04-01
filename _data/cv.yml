@@ -51,21 +51,21 @@ cv:
         end_date: 2024-03
 
     Awards:
-      - name: 若手研究者奨励賞
-        location: 日本社会心理学会
+      - title: 若手研究者奨励賞
+        authors: 竹西 海人
+        awarder: 日本社会心理学会
         date: 2025-01
         url: https://www.let.hokudai.ac.jp/news/26227
-        highlights:
-          - 全員⼀致による集合知：なぜ⼈は「全員が納得」するまで話し合うのか?
+        summary: 全員⼀致による集合知：なぜ⼈は「全員が納得」するまで話し合うのか?
 
-      - name: 若手発表賞
-        location: 日本人間行動進化学会第17回大会
+      - title: 若手発表賞
+        authors: 竹西 海人，竹澤 正哲
+        awarder: 日本人間行動進化学会第17回大会
         date: 2024-12
         url: https://www.let.hokudai.ac.jp/news/25842
-        highlights:
-          - 全員一致規則の集合知：議論の時間的ダイナミクス・モデルによる検討
+        summary: 全員一致規則の集合知：議論の時間的ダイナミクス・モデルによる検討
 
-    Grants:
+    Projects:
       - name: 2025年度補助金 (JPY270,000)
         location: 公益財団法人科学技術融合振興財団
         start_date: 2026-02
