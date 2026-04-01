@@ -52,15 +52,15 @@ cv:
         start_date: 2020-04
         end_date: 2024-03
 
-    "Awards":
-      - name: 若手研究者奨励賞
+    Awards:
+      - title: 若手研究者奨励賞
         location: 日本社会心理学会
         date: 2025-01
         url: https://www.let.hokudai.ac.jp/news/26227
         highlights:
           - 全員⼀致による集合知：なぜ⼈は「全員が納得」するまで話し合うのか?
 
-      - name: 若手発表賞
+      - title: 若手発表賞
         location: 日本人間行動進化学会第17回大会
         date: 2024-12
         url: https://www.let.hokudai.ac.jp/news/25842
@@ -68,15 +68,15 @@ cv:
           - 全員一致規則の集合知：議論の時間的ダイナミクス・モデルによる検討
 
     Projects:
-      - name: 2025年度補助金 (公益財団法人科学技術融合振興財団)
-        location: Sapporo, Japan
+      - name: 2025年度補助金 (JPY270,000)
+        location: 公益財団法人科学技術融合振興財団
         start_date: 2026-02
         end_date: 2027-03
         highlights:
           - "研究課題: 全員一致規則の集合知解明：エージェント・ベース・シミュレーションによる理論的検討"
 
-      - name: 日本財団HUMAIプログラム 奨励金A (HUMAIセンター)
-        location: Sapporo, Japan
+      - name: 日本財団HUMAIプログラム奨励金A (JPY280,000)
+        location: HUMAIセンター
         start_date: 2025-08
         end_date: 2026-03
         highlights:
@@ -114,7 +114,7 @@ cv:
         icon: fa-solid fa-dna
         keywords: "Cumulative Culture, Cultural Transmission, Cultural Group Selection"
 
-    "Affiliated Laboratory":
+    References:
       - name: Masanori Takezawa Laboratory
         icon: fa-solid fa-flask
         location: Hokkaido University
