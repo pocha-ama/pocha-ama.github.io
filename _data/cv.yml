@@ -10,20 +10,12 @@ cv:
       - company: Sapporo University
         position: Part-time Lecturer
         location: Sapporo, Japan
-        start_date: 2026-09
-        end_date: present
+        date: "present"
 
       - company: Hokkaido University
         position: Teaching Fellow
         location: Sapporo, Japan
-        start_date: 2026-09
-        end_date: present
-
-      - company: Hokkaido University Center for Human Nature, Artificial Intelligence, and Neuroscience (CHAIN)
-        position: Education Program Student
-        location: Sapporo, Japan
-        start_date: 2024-04
-        end_date: present
+        date: "present"
 
       - company: Hokkaido University
         position: Teaching Assistant
@@ -38,6 +30,15 @@ cv:
         area: Human Sciences (Behavioral Science)
         degree: PhD
         start_date: 2026-04
+        end_date: present
+
+      - institution: Hokkaido University Center for Human Nature, Artificial Intelligence, and Neuroscience (CHAIN)
+        location: Sapporo, Japan
+        url: https://www.chain.hokudai.ac.jp/
+        area: Humanities, Social Sciences, Neuroscience, and Computer Science
+        degree: Education Program Student
+        location: Sapporo, Japan
+        start_date: 2024-04
         end_date: present
 
       - institution: Hokkaido University
@@ -57,12 +58,6 @@ cv:
         end_date: 2024-03
 
     Awards:
-      - title: 日本学生支援機構大学院第一種奨学金 特に優れた業績による返還免除（半額返還免除認定）
-        authors:
-          - 竹西 海人
-        awarder: 独立行政法人日本学生支援機構
-        date: 2026-07
-
       - title: 若手研究者奨励賞
         authors:
           - 竹西 海人
@@ -79,6 +74,12 @@ cv:
         date: 2024-12
         url: https://www.let.hokudai.ac.jp/news/25842
         summary: 研究タイトル：全員一致規則の集合知：議論の時間的ダイナミクス・モデルによる検討
+
+      - title: 日本学生支援機構大学院第一種奨学金 特に優れた業績による返還免除（半額返還免除認定）
+        authors:
+          - 竹西 海人
+        awarder: 独立行政法人日本学生支援機構
+        date: 2026-07
 
       - title: 健康科学部長賞
         authors:
